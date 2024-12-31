@@ -50,7 +50,7 @@ Welcome to Optimizer, an advanced configuration utility designed to enhance your
 <h2> ⬇️ Downloads</h2> 
 </center>
 
-Find the latest release of Optimizer on the [Releases]([https://objects.githubusercontent.com/github-production-release-asset-2e65be/103370157/9e50da51-9462-4d5f-aca9-492fad3154e6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241231T011359Z&X-Amz-Expires=300&X-Amz-Signature=362681aec86ea6b46d6931e9256ecfb2cec48fb96c6c659c20da1c44e9b53f1f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DOptimizer-16.7.exe&response-content-type=application%2Foctet-stream]) page.
+Find the latest release of Optimizer on the [Releases)(https://objects.githubusercontent.com/github-production-release-asset-2e65be/103370157/9e50da51-9462-4d5f-aca9-492fad3154e6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241231T011359Z&X-Amz-Expires=300&X-Amz-Signature=362681aec86ea6b46d6931e9256ecfb2cec48fb96c6c659c20da1c44e9b53f1f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DOptimizer-16.7.exe&response-content-type=application%2Foctet-stream) page.
 
 <center>
 <h2>🖼️ Screenshots</h2> 
