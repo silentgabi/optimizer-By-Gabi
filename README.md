@@ -50,85 +50,13 @@ Welcome to Optimizer, an advanced configuration utility designed to enhance your
 <h2> ⬇️ Downloads</h2> 
 </center>
 
-Find the latest release of Optimizer on the [Releases](https://github.com/hellzerg/optimizer/releases) page.
+Find the latest release of Optimizer on the [Releases]([https://github.com/hellzerg/optimizer/releases](https://objects.githubusercontent.com/github-production-release-asset-2e65be/103370157/9e50da51-9462-4d5f-aca9-492fad3154e6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241231T011359Z&X-Amz-Expires=300&X-Amz-Signature=362681aec86ea6b46d6931e9256ecfb2cec48fb96c6c659c20da1c44e9b53f1f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DOptimizer-16.7.exe&response-content-type=application%2Foctet-stream) page.
 
 <center>
 <h2>🖼️ Screenshots</h2> 
 </center>
 
 View Optimizer in action through our [Screenshots](https://github.com/hellzerg/optimizer/blob/master/IMAGES.md) collection.
-
-<center>
-<h2> 🆘 How to Disable Defender in Windows 10 1903 and Later</h2> 
-</center>
-
-- Restart in SAFE-MODE and run Optimizer with `/disabledefender` switch
-- OR -
-- Execute Optimizer with `/restart=disabledefender` switch for automated disabling
-
-<center>
-<h2>🔨 Automation using Templating</h2> 
-</center>
-
-Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/hellzerg/optimizer/blob/master/AUTOMATION.md).
-
-<center>
-<h2> 🔨 Command-line Options</h2> 
-</center>
-
-Check out the [Command-line Options](https://github.com/hellzerg/optimizer/blob/master/CONFS.md) available for Optimizer.
-
-<center>
-<h2> ❓ Frequently Asked Questions</h2> 
-</center>
-
-Find answers to common queries in the [FAQ Section](https://github.com/hellzerg/optimizer/blob/master/FAQ.md).
-
-<center>
-<h2> 📰 Changelog</h2> 
-</center>
-
-Stay updated with the latest changes through the [Changelog](https://github.com/hellzerg/optimizer/blob/master/CHANGELOG.md).
-
-<center>
-<h2>🛡️ Security Policy</h2> 
-</center>
-
-Learn about our security measures in the [Security Policy](https://github.com/hellzerg/optimizer/blob/master/SECURITY.md).
-
-<center>
-<h2> 💻 Compatibility</h2> 
-</center>
-
-- Requires .NET Framework 4.8.1
-- Compatible with Windows 7, 8, 8.1, 10, 11
-- Can run on Windows Server 2008, 2012, 2016, 2019, 2022 using `/unsafe` switch
-
-<center>
-<h2> 📊 Details</h2> 
-</center>
-
-- Latest version: 16.7 (Released: August 18, 2024)
-- SHA256: 03A234060541B686AC4265754AFF43DF9325C21383F90E17F831E67965D717F8
-
-<center>
-<h2> ☕ Buy me a delicious espresso</h2>
-</center>
-
-If you find this tool useful, consider showing your support by [donating through PayPal](https://www.paypal.com/paypalme/supportoptimizer).
-
-<center>
-<h2> 🌐 Join our Community</h2>
-</center>
-
-Be a part of our [Discord](https://discord.gg/RmHYWMxWfJ) community.
-
-<center>
-<h2> ❤️ Credits and Acknowledgments</h2>
-</center>
-
-- [ByteSize](https://github.com/omar/ByteSize) - A useful library by Omar Rahman
-- ColorPicker - Theme engine, courtesy of cat ([GitHub Profile](https://github.com/vadiscode))
 
 <center>
 <h2> ❤️ Translations</h2>
