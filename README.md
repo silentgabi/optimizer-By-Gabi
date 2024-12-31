@@ -97,3 +97,10 @@ We'd like to extend our gratitude to the following contributors for their transl
 If you would like to translate the app into your language, you can do so, by translating the EN.json and making a PR.
 Don't forget to mention your language's official name, as well as its national flag.
 - [EN.json](https://github.com/hellzerg/optimizer/blob/master/Optimizer/Resources/i18n/EN.json)
+
+<center>
+<h2> ❤️ Ib</h2>
+</center>
+
+- profile: https://github.com/hellzerg
+- rep: https://github.com/hellzerg/optimizer
